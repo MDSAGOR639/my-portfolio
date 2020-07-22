@@ -1,0 +1,57 @@
+/*----------font-family:Abel---------------*/
+
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/*----------font-family:bebas---------------*/
+
+@font-face {
+    font-family: bebas;
+    src: url('../fonts/bebas/BebasNeue-Regular.ttf');
+}
+
+/*----------font-family:roboto---------------*/
+
+@font-face {
+    font-family: roboto;
+    src: url('../fonts/roboto/Roboto-Medium.ttf');
+}
+
+/*----------font-family:times---------------*/
+
+@font-face {
+    font-family: time;
+    src: url('../fonts/times/TIMESS__.ttf');
+}
+
+/*----------font-family:Josefin_Sans---------------*/
+
+@font-face {
+    font-family: josefin;
+    src: url("../fonts/Josefin_Sans/JosefinSans-Medium.ttf");
+}
+
+/*----------font-family:livvic---------------*/
+
+@font-face {
+    font-family: livvic;
+    src: url("../fonts/Livvic/Livvic-Medium.ttf")
+}
+
+/*----------font-family:lexen_deca---------------*/
+
+@font-face {
+    font-family: lexen;
+    src: url("../fonts/Lexend_Deca/LexendDeca-Regular.ttf")
+}
+
+/*----------font-family:Antone---------------*/
+
+@font-face {
+    font-family: antone;
+    src: url("../fonts/antone/Antone Rough.ttf")
+}
+
+/*------x----font-family:-------x--------*/
